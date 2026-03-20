@@ -17,7 +17,7 @@ Antom Receive Dev Skill 可以引导商户完成以下流程：
 通过 npx 一键安装：
 
 ```bash
-npx skill add https://github.com/<your-username>/antom-receive-dev.git
+npx skill add https://github.com/cloudyisland/antom-receive-dev.git
 ```
 
 安装完成后，Claude Code 会自动识别并加载此 skill。
